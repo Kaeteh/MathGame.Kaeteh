@@ -1,0 +1,5 @@
+C:\Users\katie\OneDrive\Desktop\Learning\FinishedProjects\MathGame\MathGame1.exe
+C:\Users\katie\OneDrive\Desktop\Learning\FinishedProjects\MathGame\MathGame1.dll
+C:\Users\katie\OneDrive\Desktop\Learning\FinishedProjects\MathGame\MathGame1.deps.json
+C:\Users\katie\OneDrive\Desktop\Learning\FinishedProjects\MathGame\MathGame1.runtimeconfig.json
+C:\Users\katie\OneDrive\Desktop\Learning\FinishedProjects\MathGame\MathGame1.pdb

@@ -1,0 +1,15 @@
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\bin\Debug\net9.0\MathGame1.exe
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\bin\Debug\net9.0\MathGame1.deps.json
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\bin\Debug\net9.0\MathGame1.runtimeconfig.json
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\bin\Debug\net9.0\MathGame1.dll
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\bin\Debug\net9.0\MathGame1.pdb
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\obj\Debug\net9.0\MathGame1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\obj\Debug\net9.0\MathGame1.AssemblyInfoInputs.cache
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\obj\Debug\net9.0\MathGame1.AssemblyInfo.cs
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\obj\Debug\net9.0\MathGame1.csproj.CoreCompileInputs.cache
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\obj\Debug\net9.0\MathGame1.dll
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\obj\Debug\net9.0\refint\MathGame1.dll
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\obj\Debug\net9.0\MathGame1.pdb
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\obj\Debug\net9.0\MathGame1.genruntimeconfig.cache
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\obj\Debug\net9.0\ref\MathGame1.dll
+C:\Users\katie\OneDrive\Desktop\Learning\MathGame1\MathGame1\obj\Debug\net9.0\MathGame1.sourcelink.json
